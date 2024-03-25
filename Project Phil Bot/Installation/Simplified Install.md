@@ -20,8 +20,8 @@ Phil Bot will also launch a screen session for you and give you the prompt to st
 
 4. Phil Bot will start and prompt you through a brand new setup process.
 
-*This is a beta feature, so give us [feedback](https://bugs.faxes.zone/projects/philbot/add?t=feedback) on your experience with this simplified install.*
-*[Improve this page](https://github.com/FAXES/Documentation/tree/main/philbot)*
+*This is a beta feature, so give us [feedback](https://bugs.projectphil.co.uk/projects/philbot/add?t=feedback) on your experience with this simplified install.*
+*[Improve this page](https://github.com/ProjectPhil/Documentation/tree/main/philbot)*
 
 :::info
 If you've completed this step, you don't have to go through the other install steps.
