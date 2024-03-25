@@ -13,7 +13,7 @@ As Phil Bot is a Node.Js operating website it requires a little more power than 
 To have the ability to have Phil Bot running using our installation guide it's recommended to use the following.
 
 - Server (This can be a VPS or Dedicated machine, Ubuntu is recommended)
-- A domain name (`faxes.zone` for example). This is used to get your website to the online world via a public access domain
+- A domain name (`projectphil.co.uk` for example). This is used to get your website to the online world via a public access domain
 - PayPal business or Stripe account to be able to receive any payments.
 - Discord, Google, Twitter, or GitHub account to use for Login methods.
 
