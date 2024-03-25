@@ -32,6 +32,6 @@ These specs may vary and be higher or lower, depending on things like, file size
 
 #### Don't Have a Server?
 
-Looking for some swagger in your hosting? TurboNode's got you covered, they're cheap as chips and have great hardware!
+Looking for some swagger in your hosting? Infusion Peak Hosting's got you covered, they're cheap as chips and have great hardware!
 
 <a href="https://infusionpeakhosting.com" target="_blank"><img src="https://cdn.projectphil.co.uk/1155551194337521726/OnKB3X.gif" border="0" alt="" width="740" height="100"/></a>
